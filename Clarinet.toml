@@ -1,0 +1,7 @@
+[project]
+name = "stacks-onchain-voting"
+description = "Simple on-chain voting smart contract on Stacks"
+authors = ["YourName"]
+
+[contracts.voting]
+path = "contracts/voting.clar"
