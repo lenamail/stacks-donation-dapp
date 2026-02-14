@@ -22,3 +22,4 @@ A simple on-chain donation tracker DApp on Stacks blockchain.
 ## Running Locally
 
 1. Go to frontend folder:
+2026-02-14 20:57:17 - minor styling fix
