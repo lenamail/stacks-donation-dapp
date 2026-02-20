@@ -225,3 +225,4 @@ A simple on-chain donation tracker DApp on Stacks blockchain.
 2026-02-20 14:21:03 - adjusted validation
 2026-02-20 14:21:10 - adjusted validation
 2026-02-20 14:21:54 - adjusted validation
+2026-02-20 14:22:15 - minor styling fix
