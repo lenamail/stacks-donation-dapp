@@ -247,3 +247,4 @@
 2026-02-21 13:06:21 - minor styling fix
 2026-02-21 13:06:42 - updated flow
 2026-02-21 13:06:51 - minor styling fix
+2026-02-21 13:06:59 - adjusted validation
